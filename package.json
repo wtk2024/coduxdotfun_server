@@ -1,11 +1,4 @@
 {
-  "name": "coduxdotfun_server",
-  "version": "1.0.0",
-  "type": "module",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
   "dependencies": {
     "@sendgrid/mail": "^8.1.0",
     "@supabase/supabase-js": "^2.81.1",
